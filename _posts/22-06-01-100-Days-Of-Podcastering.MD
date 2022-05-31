@@ -2,7 +2,7 @@
 layout: post
 title:  "100 Days of Podcastering"
 date:   2022-06-01 4:30:00
-categories: Discipline
+categories: 100Days
 ---
 
 
