@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Annotated Curated Listification Is About Editing"
-date:   2022-03-01 4:30:00
-categories: template
+date:   2022-05-01 4:30:00
+categories: ReadingList
 ---
 
 Yes, we know that this writing needs an editor. Perhaps the point of the exercise ... do develop some editing skills. ***Mostly, the writing is still raw, dissheveled, lacking a cup of coffee and certainly not yet dressed-up for work.***
