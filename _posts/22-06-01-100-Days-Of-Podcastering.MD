@@ -22,21 +22,11 @@ It is only a *project car* for our own self-development ... maybe something to b
 
 ## The Template So Far for #100DaysOf________ 
 
-1) Podcastering 2.0 ***starts*** with collaboraton and collaborative environments. We will use GitHub [Codespaces](https://docs.github.com/en/codespaces/overview#what-is-a-codespace) in this first #100DaysOf______ series.
+1) Sketch out the general working outline of the plan for 100 days ... realizing, of course, that the specific working outline is going to change and eveb possibly change each day ... but on day one, the deliverable of your learning project needs to be somewhat scoped project statement and an outline of roughly how you see the next 100 days ... at first, you might just see the plan in 10 or 15 milestones unfolding over approximately 100 days, but you should have enough granularity in those milestones to have some inkling of how much effort will be needed ... working with intention means that you need INTENTION; you need more than *just* doing it ... if you want to work smarter, you must THINK concretely, in at least a written or sketched outline that you can share with others, about what you are going to *just* do. It does not need to be formal or polished, but a plan needs to be CONCRETE and sharable.
 
-We are not recreating another podcast that we already like ... we are doing this to sketch out the development of Podcastering 2.0 ... it's not intended to be a final release 2.0 ... but it is an exploration of where we see the realm of podcastering fitting in to our particular purpose of ***keeping up with the literature AND improving the peer-review process*** of Science. 
+2) We will work entirely in public ... if you jump down to step 21, you will see that we start releasing content for others via social media. Now, before we jump into the remainder of the first 20 days which laying foundation before *going public* with this plant, we should do a deep dive into what exactly is laying involved in the foundation ... before going public on day 21. At a minimum you should develop a content creation, revise that copy approximately seven days later, complete a second revision about 14 days later and make the final script for recording a podcast 20-21 days later.  In other words, working in public requires being more prepared and concrete ... it's really about FOCUS and VISUALIZED INTENTION, so that we are ready to get input from the public as we rehearse ... but as we see in the next step, even the content creation, collaboration and revision processes will be in public. This is about reinforcing the discipline of INTENTION. INTENTION in collaboration. INTENTION in the final deliverable. 
 
-To reiterate, we are not doing this to re-create a better version of some great podcast we wanted to listen to in the past ... the WHOLE method of doing the content is release 2.0. 
-
-By the time you come across this, 2022 will be at least half-way into the rear-view mirror ... this is for maybe 2025 and beyond ... we believe that the whole process of creating and peer-reviewing sciencific content is going to NEED TO BE significantly MORE transparent than anything from either the existing peer-review process or the best of Podcastering 1.0 you are seeing now. 
-
-We believe that in Podcasting 2.0, the host will NEED to collaboratively develop an agenda to talk about [in some sort of collaborative environment that is browser-based or OS-independent] before we record the podcast to talk about the items and content repositories on that agenda ... it's like PapersWithCode ... except that we still find value in a back-and-forth discussion between peers, reviewers, before we get close to a presentation via podcast.
-
-We continue to believe that somewhat final podcasts will be useful thing for people to listen to ... while working out, while gardening, while birdwatching or relaxing at the end of the day ... but those podcasts should be annoated outlines with links to allow people to drill down later into something of particular interest.
-
-2) Before we jump in, let's get an quick idea of what we are jumping into ... [examine the gist of how collaborative Codespaces are used for five minutes](https://docs.github.com/en/codespaces/getting-started/quickstart) ... it's not JUST Codespaces ... we think that this is the general direction for all things creative ... of course, we will also talk about OTHER competing environments ... but to get started we will look at GitHub's Codespaces ... laying the foundation of the collaborative environment for content creation and revision will carry over for the first 20 podcasts.
-
-3) Explore Codespaces in detail ... [take a deep dive into Codespaces](https://docs.github.com/en/codespaces/getting-started/deep-dive)
+3) As a general rule you will want to develop the content in some form of a collaborative online workspace ... that means Github Codespaces or GitPod.io or VScode.dev or some other browser-accessible, standard collaborative workspace that anyone with internet access can use  ... well, almost anyone ... this might involve training people somewhat or requesting that they [take their own deep dive into social Codespaces](https://docs.github.com/en/codespaces/getting-started/deep-dive) as a precondition or prerequisite for collaboration.
 
 4)
 
@@ -70,7 +60,7 @@ We continue to believe that somewhat final podcasts will be useful thing for peo
 
 19)
 
-20) Social media, interactions, promotions
+20) Social media and social coding are about generating interactions and sharing ideas ... it's tough to say exactly where is the best place to find people, but you won't find people in your imagination or by just continuing to listen to the same people that you have listened to ... you will need to find your own ways to meet people ... it's like kindergarten; get out there and play with those kids ... and BE KIND!
 
 21)
 
@@ -110,7 +100,7 @@ We continue to believe that somewhat final podcasts will be useful thing for peo
 
 39)
 
-40) Analytics, experimentation, optimization 
+40) You will want to track your podcast with analytics or various observable metrics that offer chances to experiment or test a bit as you optimize your reception and deal with the various objections and aggravations. 
 
 41)
 
@@ -150,7 +140,7 @@ We continue to believe that somewhat final podcasts will be useful thing for peo
 
 59)
 
-60) Advertising, monetization, patronage, support
+60) Advertising, monetization, patronage ... this is not really about making money -- it's really about whether you have some sort of project that will ever be self-sustaining ... following 20 days in this milestone are mainly about reaching out to others for shared support
 
 61)
 
@@ -190,7 +180,7 @@ We continue to believe that somewhat final podcasts will be useful thing for peo
 
 79)
 
-80) Building upon what has been been built
+80) This milestone is about the final push toward wrapping thing thing up ... after the 100 days are done, it's either a matter of doing something new and going forward with something that might disrupt the existing ecosystem or deciding that the best approach is to put your shoulder to an existing wheel and build upon what has been been built ... the best course is generally going to be the latter, but there are a LOT of existing wheels and you should be extremely careful and quite discriminating in terms of deciding which is the best one. The process of learning something should have introduced you to the people in the world who are the very best at what can be achieved. If you genuinely don't believe these people are capable of realizing the best vision of what is possible, you disrupt ... but the best option is likely going to be continued collaboration and evangelization for success.
 
 81)
 
@@ -228,6 +218,6 @@ We continue to believe that somewhat final podcasts will be useful thing for peo
 
 98)
 
-99) Ninety-nine?
+99) Ninety-nine? Comedic ending, sub conclusion
 
-100) Maxwell Smart
+100) Maxwell Smart ... Now Go OUT THERE and Be Serious 
