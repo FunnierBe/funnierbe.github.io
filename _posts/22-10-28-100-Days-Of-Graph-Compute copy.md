@@ -13,7 +13,7 @@ We will want to do dive into [computational graphs](https://jdhao.github.io/2017
 
 ## The #100Days Plan 
 
-1)  Setting Up The Learning Sandbox
+1)  [Setting Up The Learning Sandbox](https://brunoscience.github.io/100days/2022/10/27/Day-1-Setting-Up-The-Sandbox.html)
 
 2) The general objective of this deep dive is about LEARNING, learning how to learn about something that can make one more productive ... generally, we know that it is important to learn more about exercise and fitness in the use of things that one counts on everyday ... in this specific deep dive, we are interested in the process of learning about how we level up our skills in science and math to better USE deep learning.  
 
