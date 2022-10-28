@@ -8,12 +8,16 @@ categories: 100Days
 
 # 100 Days of learning about graph compute
 
-We will want to do dive into [computational graphs](https://jdhao.github.io/2017/11/12/pytorch-computation-graph/) ... this will take us into the world of GPUs TPUs IPUs ... comparing the offerings of Paperspace, Lambda, VAST.ai, Colab, Kaggle, GCP, Azure, AWS ... and along the way it will require a bit of leveling up old school IT, sysadmin and C++ skills as well as trying to keep up with what's happening in containers, Jupyter notebooks, Python, PyTorch*
+Since we are interested in [informed search algorithms](https://en.wikipedia.org/wiki/Search_algorithm#Informed_search), we think in terms of [graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms) such as the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm). We don't want to dive deep into the weeds on these algorithms right away, but we do want to PRACTICALLY experiment with the general approach of using [compute graphs](https://docs.nvidia.com/clara-holoscan/sdk-user-guide/gxf/index.html) for modularity and extensibility of at the application level to aggressively apply better AI/ML techniques to the cause of better knowledge.
+
+*In general, as humans we use machines to help us use more date to better inform or speed our search for knowledge* ... this is as simple or banal as googling keywords to learn something  ... but as we become more adept, this rapidly takes us into the world of GPUs, TPUs, IPUs, AI accelerators and technologies that we cannot even obtain yet.  
+
+We can begin [during these 100 days] comparing the evolving offerings of Paperspace, Lambda, VAST.ai, Colab, Kaggle, GCP, Azure, AWS ... along the way, the dive into informed search algorithms will require a bit of leveling-up or *de-rustification* of old school skills in IT sysadmin and C++ libraries as well as just trying to keep up with what's happening in containers, Jupyter notebooks, Python, PyTorch
 
 
 ## The #100Days Plan 
 
-1)  [Setting Up The Learning Sandbox](https://brunoscience.github.io/100days/2022/10/27/Day-1-Setting-Up-The-Sandbox.html)
+1)  [Setting Up The Learning Sandbox](https://brunoscience.github.io/100days/2022/10/27/Day-1-Setting-Up-The-Sandbox.html) ... BEFORE we start using the BIG rentable computing horsepower, let's spend some time figuring out how this stuff works and WHY we might actually need multi-node GPU clusters for a problem, ie so that we don't just squander our capital buying time for something that doesn't need it.
 
 2) The general objective of this deep dive is about LEARNING, learning how to learn about something that can make one more productive ... generally, we know that it is important to learn more about exercise and fitness in the use of things that one counts on everyday ... in this specific deep dive, we are interested in the process of learning about how we level up our skills in science and math to better USE deep learning.  
 
