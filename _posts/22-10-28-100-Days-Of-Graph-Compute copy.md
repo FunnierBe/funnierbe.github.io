@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "100 Days of Graph Compute"
-date:   2022-10-28 4:30:00
+date:   2022-10-28 9:30:00
 categories: 100Days
 ---
 
@@ -23,13 +23,7 @@ We can begin [during these 100 days] comparing the evolving offerings of Papersp
 
 1)  [Setting Up The Learning Sandbox](https://brunoscience.github.io/100days/2022/10/27/Day-1-Setting-Up-The-Sandbox.html) ... BEFORE we start using the BIG rentable computing horsepower, let's spend some time figuring out how this stuff works and WHY we might actually need multi-node GPU clusters for a problem, ie so that we don't just squander our capital buying time for something that doesn't need it.
 
-2) The general objective of this deep dive is about LEARNING, learning how to learn about something that can make one more productive ... generally, we know that it is important to learn more about exercise and fitness in the use of things that one counts on everyday ... in this specific deep dive, we are interested in the process of learning about how we level up our skills in science and math to better USE deep learning.  
-
-Active learning is fundamentally an exercise in the continuous improvement of diligent dogfooding -- it involves doing hands-on things directly, thinking in new compute paradigms as we upgrade our C++ skills, becoming familiar with new libraries, really using perfmon and debugging tools effectively and generally getting it absolutely right at each step compounds our ability to learn at the next steps that we cannot even currently foresee.  We will need to sharpen our skills in learning in new ways; it's a matter of developing the mental discipline to improve the ways that we teach ourselves to build the tools that we will use to build better tools to learn.
-
-We want to use deep learning and computational horsepower to aid our learning about other things like computational chemistry and simulation, AI for computer-aided imaging at nanoscale and natural language processing for smarter ways to curate and annotate datagraphs of knowledge ... it's mostly about the discipline of continually learning.
-
-In order to help ourselves learn, we will want to develop the content in some form of a collaborative online workspace ... that means Github Codespaces or GitPod.io or VScode.dev or some other browser-accessible, standard collaborative workspace that anyone with internet access can use  ... well, almost anyone ... this might involve training people somewhat or requesting that they [take their own deep dive into social Codespaces](https://docs.github.com/en/codespaces/getting-started/deep-dive) as a precondition or prerequisite for collaboration.
+2) [Dev Workflow and Kernel profiling](https://brunoscience.github.io/100days/2022/10/28/Day-2-Dev-Environment-And-Kernel-Profiling.html)
 
 3) 
 
