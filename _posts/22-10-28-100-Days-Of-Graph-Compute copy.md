@@ -21,11 +21,12 @@ We can begin [during these 100 days] comparing the evolving offerings of Papersp
 
 ## The #100Days Plan 
 
-1)  [Setting Up The Learning Sandbox](https://brunoscience.github.io/100days/2022/10/27/Day-1-Setting-Up-The-Sandbox.html) ... BEFORE we start using the BIG rentable computing horsepower, let's spend some time figuring out how this stuff works and WHY we might actually need multi-node GPU clusters for a problem, ie so that we don't just squander our capital buying time for something that doesn't need it.
+1)  [Setting Up The Learning Sandbox](https://brunoscience.github.io/100days/2022/10/27/Day-1.html) ... BEFORE we start using the BIG rentable computing horsepower, let's spend some time figuring out how this stuff works and WHY we might actually need multi-node GPU clusters for a problem, ie so that we don't just squander our capital buying time for something that doesn't need it.
 
-2) [Dev Workflow and Kernel profiling](https://brunoscience.github.io/100days/2022/10/28/Day-2-Dev-Environment-And-Kernel-Profiling.html)
+2) [Dev Workflow and Kernel profiling](https://brunoscience.github.io/100days/2022/10/28/Day-2.html) ... we build a supercomputing workflow ... that means containers and something that we can take to a much, much, much more powerful machine. 
 
-3) 
+3) [QUANTUM ESPRESSO](https://brunoscience.github.io/100days/2022/10/28/Day-3.html) To install [QUANTUM ESPRESSO](https://www.quantum-espresso.org/documentation/) from source, we will need first of all a minimal Unix environment, that is: a command shell (e.g., bash, sh) and utilities make, awk, sed ... for our purposes, we install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, and more) using the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install). 
+
 
 4)
 
