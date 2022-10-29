@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "100 Days of Graph Compute"
-date:   2022-10-28 9:30:00
+date:   2022-10-29 9:30:00
 categories: 100Days
 ---
 
