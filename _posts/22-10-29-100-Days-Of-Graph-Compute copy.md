@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "100 Days of Graph Compute"
+title:  "100 Days of Computational Chemistry and Graph Compute"
 date:   2022-10-29 9:30:00
 categories: 100Days
 ---
 
 
-# 100 Days of learning about graph compute
+# 100 Days of learning about graph compute and *ab initio* quantum chemistry methods
 
-Since we are interested in [informed search algorithms](https://en.wikipedia.org/wiki/Search_algorithm#Informed_search), we think in terms of [the wide array of graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms) such as the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm). 
+The general objective of this deep dive is about [*ab initio* quantum chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) and [computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) and that means not just learning, but really LEARNING about how to test, experiment and learn as we go ... to develop the skills of learning faster about things that can make one more productive. Active learning of this nature is fundamentally an exercise in the continuous improvement of diligent dogfooding -- we are mostly learning in order to learn in order to learn in order to learn ...  we use deep learning and computational horsepower to aid our learning about other things like computational chemistry and simulation, AI for computer-aided imaging at nanoscale and natural language processing for smarter ways to curate and annotate datagraphs of knowledge ... it's mostly about the discipline of continuously learning about learning.
+
+We think of learning as a form of informed search, not JUST computer-assisted search, but computer-assisted search does inform how we learn or what we spend our time learning.  We learn best by first having a view of the lay of the land and THEN using search to dig in and find where we should expend the effort doing things the hard way to learn. So informed search is the part of learning that we might be most interested in trying to improve FIRST, because it sets the stage for what we learn NEXT. Since we are interested in [informed search algorithms](https://en.wikipedia.org/wiki/Search_algorithm#Informed_search), we think in terms of [the wide array of graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms) such as the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm). 
 
 However, we don't really want to dive deep into the weeds on all of these algorithms right away since our main interest is about developing AI computing platform tools for biological imaging devices, so our interest is somewhat bounded by what we need to use in order to [use the Holoscan software development kit](https://docs.nvidia.com/clara-holoscan/sdk-user-guide/clara_holoscan_devguide.html) and [relevant technologies]](https://docs.nvidia.com/clara-holoscan/sdk-user-guide/relevant_technologies.html#relevant-technologies) to create the next-generation of streaming applications for AI-enabled biological imaging devices with real-time AI inference and fast IO.
 
@@ -25,10 +27,9 @@ We can begin [during these 100 days] comparing the evolving offerings of Papersp
 
 2) [Dev Workflow and Kernel profiling](https://brunoscience.github.io/100days/2022/10/28/Day-2.html) ... we build a supercomputing workflow ... that means containers and something that we can take to a much, much, much more powerful machine. 
 
-3) [QUANTUM ESPRESSO](https://brunoscience.github.io/100days/2022/10/28/Day-3.html) To install [QUANTUM ESPRESSO](https://www.quantum-espresso.org/documentation/) from source, we will need first of all a minimal Unix environment, that is: a command shell (e.g., bash, sh) and utilities make, awk, sed ... for our purposes, we install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, and more) using the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install). 
+3) [Setting the stage for computational simulation](https://brunoscience.github.io/100days/2022/10/28/Day-3.html) will involve taking a bit of dive into the pool of [computational chemistry](https://en.wikipedia.org/wiki/Computational_chemistry) and [computational chemistry software](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software) ... we want to think about [scalable workflows](https://www.nature.com/articles/s41597-020-00638-4)
 
-
-4)
+4) [Preparations for using a packages like QUANTUM ESPRESSO](https://brunoscience.github.io/100days/2022/10/28/Day-4.html) To install [QUANTUM ESPRESSO](https://www.quantum-espresso.org/documentation/) from source, we will need first of all a minimal Unix environment, that is: a command shell (e.g., bash, sh) and utilities make, awk, sed ... for our purposes, we install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, and more) using the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install). 
 
 5)
 
