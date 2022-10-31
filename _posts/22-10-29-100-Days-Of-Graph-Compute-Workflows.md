@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "100 Days of Computational Chemistry and Graph Compute"
+title:  "100 Days of Computational Chemistry and Graph Compute Workflows"
 date:   2022-10-29 9:30:00
 categories: 100Days
 ---
 
 
-# 100 Days of learning about graph compute and *ab initio* quantum chemistry methods
+# 100 Days of learning about graph compute workflows and *ab initio* quantum chemistry methods
 
 The general objective of this deep dive is about [*ab initio* quantum chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) and [computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) and that means not just learning, but really LEARNING about how to test, experiment and learn as we go ... to develop the skills of learning faster about things that can make one more productive. Active learning of this nature is fundamentally an exercise in the continuous improvement of diligent dogfooding -- we are mostly learning in order to learn in order to learn in order to learn ...  we use deep learning and computational horsepower to aid our learning about other things like computational chemistry and simulation, AI for computer-aided imaging at nanoscale and natural language processing for smarter ways to curate and annotate datagraphs of knowledge ... it's mostly about the discipline of continuously learning about learning.
 
-We think of learning as a form of informed search, not JUST computer-assisted search, but computer-assisted search does inform how we learn or what we spend our time learning.  We learn best by first having a view of the lay of the land and THEN using search to dig in and find where we should expend the effort doing things the hard way to learn. So informed search is the part of learning that we might be most interested in trying to improve FIRST, because it sets the stage for what we learn NEXT. Since we are interested in [informed search algorithms](https://en.wikipedia.org/wiki/Search_algorithm#Informed_search), we think in terms of [the wide array of graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms) such as the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm). 
+We think of learning as a form of informed search, not JUST computer-aided search, but computer-aided search that involves workflows, data, papers and annotated review/discussion which can rapidly inform how we learn or what we spend our time learning.  
+
+We might learn best by first having a general overview of the lay of the land and THEN using search to dig in and target our efforts as to how and where we should expend the effort doing things the hard way to learn. So informed search is the part of learning that we might be most interested in trying to improve FIRST, because it sets the stage for what we learn NEXT. Since we are interested in [informed search algorithms](https://en.wikipedia.org/wiki/Search_algorithm#Informed_search), we think in terms of [the wide array of graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms) such as the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm). 
 
 However, we don't really want to dive deep into the weeds on all of these algorithms right away since our main interest is about developing AI computing platform tools for biological imaging devices, so our interest is somewhat bounded by what we need to use in order to [use the Holoscan software development kit](https://docs.nvidia.com/clara-holoscan/sdk-user-guide/clara_holoscan_devguide.html) and [relevant technologies]](https://docs.nvidia.com/clara-holoscan/sdk-user-guide/relevant_technologies.html#relevant-technologies) to create the next-generation of streaming applications for AI-enabled biological imaging devices with real-time AI inference and fast IO.
 
