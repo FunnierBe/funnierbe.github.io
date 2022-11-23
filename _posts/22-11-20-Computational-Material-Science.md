@@ -1,16 +1,25 @@
 ---
 layout: post
-title:  "100 Days of Computational Chemistry Using Executable Graph Compute Workflows"
+title:  "Computational Physical Chemistry
+subtitle: Using Executable Graph Compute Workflows"
 date:   2022-11-20 4:30:00
 categories: 100Days
 ---
 
 # 100 Days of the DISCIPLINE of of continuously learning about learning
 
-In some sense, this deep dive is about the particular topic of [*ab initio* quantum chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) and how that background might help us do [computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) or, perhaps, how we might optimize [**Physics-informed** neural networks (PINN)](https://docs.nvidia.com/deeplearning/modulus/user_guide/theory/phys_informed.html) to be more efficient in searching for or identifying compounds with properties we desire.
+This is about learning how to learn.
 
-THIS is a serious topic.  It is serious because ***the people who choose to do THIS do IT because doing IT is what they DO. Doing THIS is what they hope defines or actualizes their existence.***
-# 100 Days of learning about executable graph compute workflows ... to use *ab initio* quantum chemistry methods
+This particularly 100 day deep dive is about the particular topic of [*ab initio* or "from first principles" computational chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) ... in order really *understand* physical chemistry and quantum mechanics, we want to simulate it and verify that our computational simulations match actual real world data.
+
+ [Computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) might extend to optimizing [**Physics-informed** neural networks (PINN)](https://docs.nvidia.com/deeplearning/modulus/user_guide/theory/phys_informed.html) to be more efficient in searching for or identifying compounds with properties we desire ... but the WHY of the exercise is understanding the first principles or assumptions upon which physical chemistry is based.
+
+ Human understanding of physical chemistry is imperfect ... but we learn how to learn better in order to learn how that misunderstanding is flawed ... ***science is fundamentally about the LOVE of human misunderstanding.***
+
+### Computational material science or computational physical chemistry is a serious topic.
+
+It is serious because ***the people who choose to do THIS do IT because doing IT is what they have chosen to DO with their lives. Doing THIS is what they hope defines or actualizes their existence.***
+### 100 Days of learning about executable graph compute workflows ... to use *ab initio* quantum chemistry methods
 
 It's 100 Days of learning about everything we need to do make executable graph computing happen.
 
