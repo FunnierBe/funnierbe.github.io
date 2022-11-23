@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computational Physical Chemistry"
-subtitle: "Using Executable Graph Compute Workflows"
+subtitle: "Learning something about why we do science"
 date:   2022-11-20 4:30:00
 categories: 100Days
 ---
@@ -12,9 +12,25 @@ categories: 100Days
 
 # Continuously learning about how we can learn better
 
-Science is fundamentally about misunderstanding things ... but misunderstanding in a way that is just good enough to maybe help us get to a deeper and more useful level of misunderstanding. Humans who believe that they understand something are DEAD ... as long as humans are ALIVE, humans do science in order to have a better or more useful understanding about something -- the improvement of misunderstanding [of science] is how humankind learns how to learn.
+Science is fundamentally about misunderstanding things and discovering and correcting the misunderstanding ... it's about ALWAYS learning and never accepting that *the science is settled.*  
 
-This particular little exercise is 100-day guided deep dive into the particular topic of [*ab initio* or "from first principles" computational chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) ... in order really *understand* physical chemistry and quantum mechanics, we want to simulate how material properties come into being and a very important part of that is verifying that our computational simulations match actual real world data and, most importantly, finding out how where our understanding is flawed, ie ***information*** comes out of what surprises us and motivates us to change.
+It's not just about ***learning*** but learning something about how we learn from our previous misunderstanding, ie what was it in our understanding of *first principles* led to our misunderstanding.
+
+In spite of us characterizing our scientific knowledge as misunderstanding ... *it's the best we have!* ... and, even if it is flawed, it is still useful in ways that are just good enough to fix things well enough that we might be able to get to a deeper and more useful level of misunderstanding. ***It's a constant climb.***
+
+Humans who believe that they understand something not only don't ... if they really BELIEVE that, they are DEAD, ie they've stopped learning.
+
+As long as humans are ALIVE, humans do science in order to have a better or more useful understanding about something -- the improvement of misunderstanding [of science] is how humankind learns how to learn.
+
+## An exercise in learning something about why we do science
+
+This particular little exercise is 100-day guided deep dive into the particular topic of [*ab initio* or "from first principles" computational chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) ... if we take this exercise seriously, we will learn about our limits ... we will be humbled, probably on a daily basis, by how little we actually understand.
+
+*THAT humility is what we WANT!!!*
+
+In order really *understand* physical chemistry and quantum mechanics, we will improve upon the abilities to simulate how material properties come into being ... the accuracy of our simulations will be useful for solving various problems in the invention of new technologies and processes -- but mostly, we will learn WHY our simulations are not quite good enough.
+
+Perhaps, the important part of the whole exercise is in verifying that our computational simulations *ALMOST* match actual real world data but, most importantly, finding out how where our understanding is flawed, ie ***REAL information*** does not come from affirmation, but rather comes out of what surprises us and motivates us to change our approach.
 
  [Computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) might extend to optimizing [**Physics-informed** neural networks (PINN)](https://docs.nvidia.com/deeplearning/modulus/user_guide/theory/phys_informed.html) to be more efficient in searching for or identifying compounds with properties we desire ... but the WHY of the exercise is understanding the first principles or assumptions upon which physical chemistry is based.
 
