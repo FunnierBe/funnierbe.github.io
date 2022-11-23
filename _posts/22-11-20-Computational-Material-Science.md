@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "Computational Physical Chemistry
-subtitle: Using Executable Graph Compute Workflows"
+title:  "Computational Physical Chemistry"
+subtitle: "Using Executable Graph Compute Workflows"
 date:   2022-11-20 4:30:00
 categories: 100Days
 ---
 
-# 100 Days of the DISCIPLINE of of continuously learning about learning
 
-This is about learning how to learn.
+*“The best that most of us can hope to achieve in physics is simply to misunderstand at a deeper level.”*
+― Wolfgang Pauli
 
-This particularly 100 day deep dive is about the particular topic of [*ab initio* or "from first principles" computational chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) ... in order really *understand* physical chemistry and quantum mechanics, we want to simulate it and verify that our computational simulations match actual real world data.
+# Continuously learning about how we can learn better
+
+Science is fundamentally about misunderstanding things ... but misunderstanding in a way that is just good enough to maybe help us get to a deeper and more useful level of misunderstanding. Humans who believe that they understand something are DEAD ... as long as humans are ALIVE, humans do science in order to have a better or more useful understanding about something -- the improvement of misunderstanding [of science] is how humankind learns how to learn.
+
+This particular little exercise is 100-day guided deep dive into the particular topic of [*ab initio* or "from first principles" computational chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) ... in order really *understand* physical chemistry and quantum mechanics, we want to simulate how material properties come into being and a very important part of that is verifying that our computational simulations match actual real world data and, most importantly, finding out how where our understanding is flawed, ie ***information*** comes out of what surprises us and motivates us to change.
 
  [Computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) might extend to optimizing [**Physics-informed** neural networks (PINN)](https://docs.nvidia.com/deeplearning/modulus/user_guide/theory/phys_informed.html) to be more efficient in searching for or identifying compounds with properties we desire ... but the WHY of the exercise is understanding the first principles or assumptions upon which physical chemistry is based.
 
