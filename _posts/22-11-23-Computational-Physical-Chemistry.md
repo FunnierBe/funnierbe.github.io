@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Computational Physical Chemistry"
-subtitle: "Learning something about why we do science"
-date:   2022-11-20 4:30:00
+subtitle: "Maybe we can something about why we do science!"
+date:   2022-11-23 1:00:00
 categories: 100Days
 ---
 
@@ -12,11 +12,17 @@ categories: 100Days
 
 # Continuously learning about how we can learn better
 
-Science is fundamentally about misunderstanding things and discovering and correcting the misunderstanding ... it's about ALWAYS learning and never accepting that *the science is settled.*  
+Science is fundamentally about misunderstanding things and discovering and correcting the misunderstanding ... it's about ALWAYS learning and accepting that the science is never settled.  
 
-It's not just about ***learning*** but learning something about how we learn from our previous misunderstanding, ie what was it in our understanding of *first principles* led to our misunderstanding.
+If we are serious about learning how we can learn better, then *maybe we can still something about why we do science!*  It's not just about ***learning*** but learning something about how we learn from our previous misunderstanding -- learning is about testing our knowledge. For example, we are interested in finding out exactly what was it in our understanding of *first principles* led to our misunderstanding.
 
-In spite of us characterizing our scientific knowledge as misunderstanding ... *it's the best we have!* ... and, even if it is flawed, it is still useful in ways that are just good enough to fix things well enough that we might be able to get to a deeper and more useful level of misunderstanding. ***It's a constant climb.***
+All of misunderstand Physical Chemistry ... some of those misunderstandings are actually pretty damned useful ... for others of us, we have some work to do to get our misunderstanding of the topic to a deep enough level to be close to being useful. 
+
+There's a LOT to learn. 
+
+In spite of our characterizing our scientific knowledge as misunderstanding ... *that scientific knowledge IS the best we have!* ... and, even if it is flawed, that human knowledge is still useful in ways that are just good enough to fix things well enough that we might be able to get to a deeper and more useful level of misunderstanding. ***Learning and improving upon that knowledge a constant climb.***
+
+To climb faster, we humans now employ machines to handle much of the tedious climbing for us ... but climbing fastest is still going to involve humans directing those machines. Toward that end, most [and probably all] of us, will have an enormous amount of work to do -- the larger network of networks of humans advancing science and advancing the effectiveness of information technology means that whatever we knew one second ago is not dated or has been superseded by some improvement, ie  it's a matter of `sudo dnf update && sudo dnf upgrade` in a universal sense *for all of our distros*.
 
 Humans who believe that they understand something not only don't ... if they really BELIEVE that, they are DEAD, ie they've stopped learning.
 
