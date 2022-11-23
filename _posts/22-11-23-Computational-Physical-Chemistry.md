@@ -16,13 +16,27 @@ Science is fundamentally about misunderstanding things and discovering and corre
 
 If we are serious about learning how we can learn better, then *maybe we can still something about why we do science!*  It's not just about ***learning*** but learning something about how we learn from our previous misunderstanding -- learning is about testing our knowledge. For example, we are interested in finding out exactly what was it in our understanding of *first principles* led to our misunderstanding.
 
-All of misunderstand Physical Chemistry ... some of those misunderstandings are actually pretty damned useful ... for others of us, we have some work to do to get our misunderstanding of the topic to a deep enough level to be close to being useful. 
+NONE of us really *misunderstand* Physical Chemistry, but some of the better misunderstandings are actually, remarkably pretty damned useful. But, for others of us [outside the professional discipline], we have some work to do to get our misunderstanding of the topic to a deep enough level so that what we think we know can come close to being useful. 
 
-There's a LOT to learn. 
+There's a LOT to learn. When we forget our lessons in humility ... we will be schooled in that topic. The first thing to know is that what we think we know is a misunderstanding ... as the Buddhists say, "*Regard all of the dharma as a dream.*"
 
-In spite of our characterizing our scientific knowledge as misunderstanding ... *that scientific knowledge IS the best we have!* ... and, even if it is flawed, that human knowledge is still useful in ways that are just good enough to fix things well enough that we might be able to get to a deeper and more useful level of misunderstanding. ***Learning and improving upon that knowledge a constant climb.***
+In spite of our characterizing our scientific knowledge as misunderstanding ... *that scientific knowledge IS the best we have!* ... and, in spite of it being flawed, that human knowledge is still useful in ways that are pretty powerful when it comes to fixing things well enough that our species can survive a bit longer and we might be able to get to a deeper and more useful level of misunderstanding.
 
-To climb faster, we humans now employ machines to handle much of the tedious climbing for us ... but climbing fastest is still going to involve humans directing those machines. Toward that end, most [and probably all] of us, will have an enormous amount of work to do -- the larger network of networks of humans advancing science and advancing the effectiveness of information technology means that whatever we knew one second ago is not dated or has been superseded by some improvement, ie  it's a matter of `sudo dnf update && sudo dnf upgrade` in a universal sense *for all of our distros*.
+Learning and improving upon that knowledge a constant effort ... a labor of LOVE ... science is motivated by a LOVE of the fundamental nature of Reality and WHY we are alive. 
+
+## The *CROWDLINESS* of science
+
+The love, motivation and drive are strong enough that we humans not only do science but we look for ways to help us do science better ... and we have found all kinds of ways ... especially powerful are the ways that allow us to share the improvements ... this started with things like scientific journals, but it has advanced remarkably with things like the world wide web and all kinds of developments in information technology and containerized collaborative scientific notebooks.
+
+We humans not only employ machines to handle the more tedious aspects of the effort for us ... we have made those networks of machines smarter and much more capable ... it USED TO BE that we could drive to universities or fly to conferences to interact with peers ... but NOW we have to use the virtual realm to stay in contact with our peers doing science around the world. If there was any doubt about this before, 2020 and the covid restrictions effectively PROVED that human interaction is more efficient, more effective when humans are asynchronously engaged in work in the virtual realm. 
+
+This means that ALL of us, will have an enormous amount of work to do just keeping up with what others have accomplished.
+
+Science, like any advanced productive human activity, is no longer a one Newton alone in his laboratory kind of thing ... it's also no longer a matter of worker bees commuting to be in their cubicles so that their habits and workflow discipline can be constantly programmed into their subconcious. Science now, not only involves more people working at above Newton's level, but they are working with far more powerful tools AND they are collaborating with peers around the globe. 
+
+***Accepting the virtual crowdliness of asynchronous workflows of modern science is another facet of the humility required to do science now.***
+
+The larger network of networks of humans advancing science and advancing the effectiveness of information technology means that whatever we knew one second ago is not dated or has been superseded by some improvement, ie  in a universal sense, it's a matter of `sudo dnf update && sudo dnf upgrade` *for all of our distros ... and there's not really much tolerance for SciOps developers who insist on using last year's infrastructure-as-code*.
 
 Humans who believe that they understand something not only don't ... if they really BELIEVE that, they are DEAD, ie they've stopped learning.
 
