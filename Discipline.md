@@ -4,14 +4,20 @@ title: Discipline
 permalink: /Discipline/
 ---
 
+Every day is pre-requisite for the days that follow
 
+The meta-lesson of this lesson is about the NECESSITY of embracing the humility of learning from other human beings.
+
+***Social*** collaboration in the virtual realm of [development containers](https://containers.dev) is necessarily humilating ... not just a matter of *being naked on stage* as in public speaking. It is a step further ... everyone can look in that container. It's as if everyone can see the teleprompter because they are able to actively participate and really ***see*** the weaknesses in the data or in the logic of the code or the discussion of results.
+
+If you really embrace the necessity of the humility of active virtual collaboration ... it will drive EVERYTHING that you do in order to prepare to do PURE science in a radically more modern way. ***The HUMILITY of modern scientific collaboration drives our WHY*** and hopefully, it is clear why all of the things that we do in terms of development containers or developing fluency in using the command line is about better collaboration with others.
 # Daily Compounding
 
-Discipline is about sticking at it on a DAILY basis.
+Discipline is about sticking at it on a DAILY basis ... even TINY daily improvements compound and soon double our competency ... think about a 0.28% daily improvement ... just a fraction of 0.28%, which is like 28c out of every $100 amounts to an annual doubling ... 1.002776436^250 = 2X
 
-Not just going through the motions, but also about meta-discipline and owning the responsibility for controlling our mind ... this means that we try to never let up, but to constantly work *with diligent* ***intention***  ... as we focus upon continuously improving the intelligence and execution of our discipline. 
+Discipline is about working with intention and focus. Coaching ourselves as we go along. Not just going through the motions, but also about meta-discipline and owning the responsibility for controlling our mind to focus on the discipline of continuous improvement ... this means that we try to never let up, but to constantly work *with diligent* ***intention***  ... as we focus upon continuously improving the intelligence and execution of our discipline. 
 
-The maniacal focus on improving the discipline drives us to think about better stick at sticking with it ... discipline is recursiveAF ... it has to be ... 
+The maniacal focus on improving the discipline drives us to think about better stick at sticking with it ... yes, discipline is recursive*AF* ... it HAS to be ... *DISCIPLINE EQUALS FREEDOM* 
 
 ## Discipline Equals Freedom
 
@@ -57,7 +63,7 @@ The maniacal focus on improving the discipline drives us to think about better s
 
 19)
 
-20) Social media and social coding are about generating interactions and sharing ideas ... it's tough to say exactly where is the best place to find people, but you won't find people in your imagination or by just continuing to listen to the same people that you have listened to ... you will need to find your own ways to meet people ... it's like kindergarten; get out there and play with those kids ... and BE KIND!
+20) Social media connections, possibly with something like a podcast or maybe streaming social coding spaces ase with GitHub Codespaces are about generating interactions and sharing ideas ... it's tough to say exactly where is the best place to find people, but you won't find people in your imagination or by just continuing to listen to the same people that you have listened to ... you will need to find your own ways to meet people ... it's like kindergarten; get out there and play with those kids ... and *try to BE KIND!*
 
 21)
 
@@ -97,7 +103,7 @@ The maniacal focus on improving the discipline drives us to think about better s
 
 39)
 
-40) You will want to track your podcast with analytics or various observable metrics that offer chances to experiment or test a bit as you optimize your reception and deal with the various objections and aggravations. 
+40) The remainder of the project will be about automation and using data generated from the project. You will want to track your project with analytics or various observable metrics that offer chances to experiment or test a bit as you optimize your reception and deal with the various objections and aggravations. 
 
 41)
 
@@ -137,7 +143,7 @@ The maniacal focus on improving the discipline drives us to think about better s
 
 59)
 
-60) Advertising, monetization, patronage ... this is not really about making money -- it's really about whether you have some sort of project that will ever be self-sustaining ... following 20 days in this milestone are mainly about reaching out to others for shared support
+60) Advertising, monetization, patronage ... this is not really about making money -- it's really about whether we have some sort of project that will ever be self-sustaining ... following 20 days in this milestone are mainly about reaching out to others for shared support
 
 61)
 
@@ -215,7 +221,7 @@ The maniacal focus on improving the discipline drives us to think about better s
 
 98)
 
-99) Ninety-nine? Comedic ending, sub conclusion
+99) Ninety-nine? Comedic pause, surprise ending, sub conclusion
 
 100) Maxwell Smart ... Now Go OUT THERE and Be Serious 
 
