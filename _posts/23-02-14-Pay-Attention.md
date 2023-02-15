@@ -13,11 +13,11 @@ It is not one bit funny.
 
 Well, it's not just your stairs ... pretty much ever last thing in the world can be used as a weapon ... even little viral particles, diseases ... you are constantly under attack from things and you don't even realize it.
 
-Your immune system is actually pretty decent ... it is protecting you from all kinds of stupid shit that you are doing ... but your immune system is not perfect; in fact, it has weaknesses that you could correct, but you are not going to do that because you are so stupid that you STILL believe that you are entitled to a strong immune system.
+Your immune system is actually really pretty remarkable ... it is protecting you from all kinds of stupid shit that you are doing ... but your immune system is not perfect; in fact, it has weaknesses that you could correct, but you are not going to do that because you are so stupid that ***you STILL believe that you are entitled to a STRONG immune system*** ... *you might be entitled to death, but* ***you are not entitled a STRONG immune system.***
 
 You are vulnerable, because you have not bothered to make yourself more PRACTICALLY unvulnerable ... the PRACTICAL side of this matters because the Chinese OR aliens OR agents from your government are not going to bother with your idiotic ass ... you do not have to worry about the Japanese bombing Pearl Harbor ... OR the Chinese coming into North Korea ... ***the PROBLEM is with YOU*** ... right now, not some imaginary bogus enemy that your favorite fearmonger tell you about.  
 
-Maybe you can't even do something like live in the COLD ... or save money ... or start businesses ... or fight your way out of a wet paper bag.
+Maybe you can't even do little things like push your physiology hormetically to live in the COLD ... maybe you can't forgo having utilities in order to save the money necessary to start businesses ... maybe you can't fight your way out of a comfortable wet paper bag because you are familiar and comforable with that bag.
 
 Skip the clever bullshit phrases like *"I'd rather be a warrior in a garden than a gardener in a war"*  That kind of stupid shit is for benzo-addicted morons.
 
