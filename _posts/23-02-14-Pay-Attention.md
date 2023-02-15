@@ -23,7 +23,7 @@ Skip the clever bullshit phrases like *"I'd rather be a warrior in a garden than
 
 ***The PROBLEM is with YOU*** 
 
-Work on YOU first.  Don't worry about becoming [Khabib Nurmagomedov](https://www.youtube.com/watch?v=dUGV70oPsTs&t=120s) right away ... you might get there ... but first, just work on YOU.
+Work on YOU first.  Don't worry about becoming a GOAT like [Khabib Nurmagomedov](https://www.youtube.com/watch?v=dUGV70oPsTs&t=120s), right away ... do not count that kind of thing for your particular pursuit out ... IF YOU WORK AT IT, you will get there ... ***but first, just work on YOU.***
 
 Work on YOUR focus on paying attention. ***Train, RECOVER in order to train, focus on the part of your training that is not about paying attention as you train.***
 
