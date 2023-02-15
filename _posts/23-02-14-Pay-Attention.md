@@ -29,8 +29,10 @@ Work on YOUR focus on paying attention. ***Train, RECOVER in order to train, foc
 
 ### YOUR stairs are trying to kill YOU.
 
-Of course, we know it's not the stairs fault ... it's YOU ... and you generally not really paying attention OR you not having the proper perspective or taking the time to think about the BIG PICTURE.
+Of course, we all know that is is not the stairs that are at fault; if you didn't have stairs to climb, you would find a new way to put yourself at risk.  It's the same problem as with automobiles which are safer than ever, but more people die in automobile wrecks than ever because of the rise of distracted driving ... it's not just people inside automobiles, more pedestrians and bikers than ever before are getting mowed down by distracted drivers in safe automobiles and all the information and computing power those drivers could ever need right at their fingertips.
 
-The PROBLEM is with YOU ... you lack of mindfullness thoughout the day ... you might be really tough when you know something is coming ... but the OTHER times, you cannot pay attention and BE PRESENT for the NOW that is around you ... you long for the escape from NOW ... stop it.  Be PRESENT.
+**The problem is with YOU** ... and you generally not really paying attention OR you not having the proper perspective or taking the time to think about the BIG PICTURE.
+
+**The PROBLEM is with YOU** ... you lack of mindfullness thoughout the day ... you might be really tough when you know something is coming ... but the OTHER times, you cannot pay attention and BE PRESENT for the NOW that is around you ... you long for the escape from NOW ... stop it.  Be PRESENT.
 
 Build the discipline with EVERY step that you take, every move that you make ... in order to [build the discipline for next time to better pay attention to every step, to every move you make](https://twitter.com/DIFFversity/status/1625879074399739904).
