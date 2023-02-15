@@ -9,6 +9,10 @@ categories: 100Days
 
 It is not one bit funny.
 
+It is not one bit funny ... but try to see the humor in it.
+
+It is not one bit funny ... God can see the humor in it, even when you refuse to.
+
 # Your stairs are trying to kill you.
 
 Well, it's not just your stairs ... pretty much ever last thing in the world can be used as a weapon ... even little viral particles, diseases ... you are constantly under attack from things and you don't even realize it.
