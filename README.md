@@ -1,4 +1,6 @@
-# 100 Days of the DISCIPLINE of of continuously learning about learning
+# DOYNK.ME ... 100 DOYNKS in the DISCIPLINE of of continuous AWARENESS HEIGHTENING
+
+**Your stairs are trying to kill you. Shut ofd the fearmongering coming from your teevee. Your stairs are trying to kill you.**
 
 In some sense, this deep dive is about the particular topic of [*ab initio* quantum chemistry](https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods) and how that background might help us do [computational chemistry methods](https://en.wikipedia.org/wiki/Computational_chemistry) or, perhaps, how we might optimize [**Physics-informed** neural networks (PINN)](https://docs.nvidia.com/deeplearning/modulus/user_guide/theory/phys_informed.html) to be more efficient in searching for or identifying compounds with properties we desire.
 
