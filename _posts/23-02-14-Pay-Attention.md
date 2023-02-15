@@ -11,4 +11,4 @@ It is not one bit funny.
 
 Your stairs are trying to kill you.
 
-Pay attention to every step.
+Build the discipline with EVERY step that you take to pay attention to every step.
