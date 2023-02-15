@@ -1,9 +1,9 @@
 # Site settings
-title: BrunoScience
-email: MarkBruns@MarkBruns.com
-description: What's wrong with Science ... but, more importantly, what can we do to fix it?
-twitter_username: QualityFellow
-github_username:  BRUNOScience
+title: DOYNK.me
+email: bruns@clichesaur.us
+description: Your stairs are trying to kill you. Shut off the fearmongering coming from your teevee. Your STAIRS are trying to kill you. PAY more attention to EVERY step.
+twitter_username: Clichesaur_us
+github_username:  FunnierBe
 
 # Build settings
 markdown: kramdown
