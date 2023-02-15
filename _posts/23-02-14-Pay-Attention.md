@@ -21,7 +21,9 @@ Maybe you can't even do something like live in the COLD ... or save money ... or
 
 Skip the clever bullshit phrases like *"I'd rather be a warrior in a garden than a gardener in a war"*  That kind of stupid shit is for benzo-addicted morons.
 
-***The PROBLEM is with YOU*** ... work on YOU first. Get tougher.
+***The PROBLEM is with YOU*** 
+
+Work on YOU first.  Don't worry about Jocko or David Goggins or Khabib ... just work on YOU. Get tougher on the part of you that is not paying attention.
 
 ### YOUR stairs are trying to kill YOU.
 
