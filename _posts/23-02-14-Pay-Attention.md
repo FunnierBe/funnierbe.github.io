@@ -25,7 +25,7 @@ Skip the clever bullshit phrases like *"I'd rather be a warrior in a garden than
 
 Work on YOU first.  Don't worry about becoming [Khabib Nurmagomedov](https://www.youtube.com/watch?v=dUGV70oPsTs&t=120s) right away ... you might get there ... but first, just work on YOU.
 
-Work on YOUR focus on paying attention. ***Train, recover, focus on the part of you that is not paying attention as you train.***
+Work on YOUR focus on paying attention. ***Train, RECOVER in order to train, focus on the part of your training that is not about paying attention as you train.***
 
 ### YOUR stairs are trying to kill YOU.
 
