@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "PAY ATTENTION"
-subtitle: "Your stairs are trying to kill you"
+title:  "PAY ATTENTION ... your stairs ARE trying to kill you!"
+subtitle: "It's not just your stairs"
 date:   2023-02-14 1:00:00
 categories: 100Days
 ---
