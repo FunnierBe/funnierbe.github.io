@@ -342,26 +342,32 @@ Quote: "I assumed the null hypothesis was just napping."
 
 Back-of-the-Envelope Blunder  
 Description: Rough calculations gone rogue.  
-Quote: "I did the math on a napkin—it was 90% coffee stains, but added in another half of mustard."
+Quote: "I did the math on a napkin. Works out to 90% coffee stains—the other half is ketchup."
 
 Bias Bloop  
 Description: When preconceptions skew the data.  
-Quote: "My bias is so strong, it’s practically a Bayesian priest."
+Quote: "My bias was confirmed before -- by now, it’s probably a Bayesian ordained minister."
+
 Boundary Condition Breakdown  
 Description: Edge cases that defy logic.  
-Quote: "I tested the limits—turns out they’re limitless."
+Quote: "Test the limits of credulity—have faith that they’re limitless."
+
 Bug Hunt Hilarity  
 Description: Chasing software gremlins.  
 Quote: "Found the bug—it was just a feature in disguise."
+
 Calibration Catastrophe  
 Description: When tools betray you.  
-Quote: "My scale’s so off, it weighed my hopes at zero."
+Quote: "My scale’s so far off, my hopes are pinned at zero."
+
 Causation Confusion  
 Description: Mixing cause and coincidence.  
 Quote: "The rooster crows, so the sun rises—case closed."
+
 Circular Reasoning Chuckle  
 Description: Logic loops that amuse.  
 Quote: "It works because it works—trust me, I checked."
+
 Code Comment Comedy  
 Description: Notes that mislead.  
 Quote: "Per the comment: ‘This works fine.’ Spoiler: It doesn’t."
